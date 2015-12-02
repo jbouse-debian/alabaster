@@ -1,3 +1,9 @@
+alabaster (0.7.6-1~bpo8+1) jessie-backports; urgency=medium
+
+  * Rebuild for jessie-backports.
+
+ -- Harlan Lieberman-Berg <hlieberman@setec.io>  Wed, 25 Nov 2015 20:12:11 -0500
+
 alabaster (0.7.6-1) unstable; urgency=medium
 
   * Imported Upstream version 0.7.6
