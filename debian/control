@@ -1,6 +1,6 @@
 Source: alabaster
 Section: python
-Priority: extra
+Priority: optional
 Maintainer: Jeremy T. Bouse <jbouse@debian.org>
 Build-Depends: debhelper-compat (= 12),
                dh-python,
