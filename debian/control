@@ -4,10 +4,11 @@ Priority: optional
 Maintainer: Jeremy T. Bouse <jbouse@debian.org>
 Build-Depends: debhelper-compat (= 13),
                dh-python,
-               python3-all,
-               python3-setuptools
+               flit (>= 3.7),
+               pybuild-plugin-pyproject,
+               python3-all
 Standards-Version: 4.6.2
-Homepage: https://github.com/bitprophet/alabaster
+Homepage: https://github.com/sphinx-doc/alabaster
 Vcs-Git: https://github.com/jbouse-debian/alabaster.git
 Vcs-Browser: https://github.com/jbouse-debian/alabaster
 
